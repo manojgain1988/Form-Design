@@ -1,0 +1,38 @@
+form {
+    text-align: center;
+    font-size: 18px;
+    width: 40%;
+    background:linear-gradient(to right, #ff0000, #00ff00);
+    height: 94vh;
+    border: 2px solid black;
+    margin-left: 300px;
+    border-radius:0px 40px 40px 0px;
+    box-shadow: 20px 20px 30px 40px rgba(0, 0, 0, 0.7);
+    
+}
+form:hover{
+    background:linear-gradient(to right, #2904fa, #ff0000);
+}
+form h1{
+     text-decoration: underline;
+     color: #fff;
+     margin-top:5px;
+}
+label{
+    align-items: start;
+    font-size: 20px;
+    color: #fcf9f9;
+}
+input{
+    line-height: 25px;
+    color: rgb(3, 3, 3);
+    font-weight: 700;
+    font-size: 16px;
+    
+}
+textarea{
+    font-size: 16px;
+}
+Your Age{
+    margin-left: 600px;
+}
